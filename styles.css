@@ -6,7 +6,25 @@
 	justify-contnet:space-between;
 	
 }
-.item{
+.item3{
+	flex:0 1 auto;
+	margin:10px;
+	padding:10px;
+	justify-content:space-between;
+	background-color:red;
+	height:100px;
+	width:100px;
+}
+.item1{
+	flex:0 1 auto;
+	margin:10px;
+	padding:10px;
+	justify-content:space-between;
+	background-color:red;
+	height:100px;
+	width:100px;
+}
+.item2{
 	flex:0 1 auto;
 	margin:10px;
 	padding:10px;
